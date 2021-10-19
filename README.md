@@ -1,2 +1,2 @@
 # wordguesser
-仿照https://github.com/saasbook/hw-sinatra-saas-wordguesser做的一个猜词器
+仿照 https://github.com/saasbook/hw-sinatra-saas-wordguesser 做的一个猜词器
